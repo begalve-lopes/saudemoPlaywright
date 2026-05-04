@@ -1,4 +1,9 @@
 {
   "name": "BlazedemoPlaywright",
-  "packageManager": "yarn@4.11.0"
+  "packageManager": "yarn@4.11.0",
+  "devDependencies": {
+    "@playwright/test": "^1.59.1",
+    "@types/node": "^25.6.0"
+  },
+  "scripts": {}
 }

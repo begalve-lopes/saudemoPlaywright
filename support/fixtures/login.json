@@ -1,0 +1,36 @@
+{
+  "validLogin": {
+    "Username": "standard_user",
+    "Password": "secret_sauce"
+  },
+
+  "emptyBoth": {
+    "Username": "",
+    "Password": ""
+  },
+
+  "emptyPassword": {
+    "Username": "standard_user",
+    "Password": ""
+  },
+
+  "emptyUsername": {
+    "Username": "",
+    "Password": "secret_sauce"
+  },
+
+  "invalidCredentials": {
+    "Username": "sdsd",
+    "Password": "sdsdsd"
+  },
+
+  "validUserInvalidPassword": {
+    "Username": "standard_user",
+    "Password": "sdsdsd"
+  },
+
+  "invalidUsernameValidPassword": {
+    "Username": "nane",
+    "Password": "secret_sauce"
+  }
+}
